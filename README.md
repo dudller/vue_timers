@@ -20,5 +20,4 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Simple web app which allows u to set multiple timers, watch them and when they expire, reset them and made the world run again! Yay!
